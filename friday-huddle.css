@@ -1,0 +1,43 @@
+html {
+  font-family: helvetica, sans-serif;
+}
+.head-img {
+  width:100%;
+}
+body {
+  background-color:grey;
+}
+.container {
+  background-color: pink;
+  
+}
+button {
+  border-radius: 50%;
+  background-color: burlywood;
+  position: absolute;
+  right: 20px;
+  height: 35px;
+  width:80px;
+  font-size:20px;
+  color: cornflowerblue;
+  
+}
+
+li {
+  display: inline-block;
+  width: 20%;
+  height:50px;
+  border: 2px solid darksalmon;
+  text-align:center;
+  color: tomato;
+  font-size: 2.5em;
+  background-color:blanchedalmond;
+}
+footer{
+  background-color: blanchedalmond;
+}
+
+.items {
+  background-color: goldenrod;
+  width:80%;
+}
